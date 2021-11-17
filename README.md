@@ -1,4 +1,4 @@
-# Practice
+# Learning MarkDown
 
 ### Medium
 ###### Small
@@ -44,4 +44,11 @@ This is Google [homepage](https://www.google.com) >how cool is that!\
 - [ ] I was always curious how the *Task List* is done
 - [x] here we are
 - [ ] and you know it works, cool!
+- [ ] [This link will take you nowhere unless you use it right, HaHaHaHa!!](https://www.google.com)
+- [ ] \(Optional) What does this do?
 
+just putting a smile there 😃
+
+I am providing references and foot notes [^1][^2].
+[^1]: I got some foot notes
+[^2]: I am sure you got how to do it - this will help you provide references
