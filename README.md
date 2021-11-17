@@ -1,6 +1,5 @@
-Practice
+# Practice
 
-# markdown-portfolio
 ### Medium
 ###### Small
 
