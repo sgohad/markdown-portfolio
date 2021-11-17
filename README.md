@@ -1,3 +1,3 @@
 # markdown-portfolio
-### Shraddha
-###### shraddha
+### Medium
+###### Small
