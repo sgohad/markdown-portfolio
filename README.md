@@ -31,6 +31,12 @@ This is Google [homepage](https://www.google.com) >how cool is that!\
 
 ![I am putting an image here](https://theweek.com/articles/789546/how-happier)
 
+
+| Header 1  | Header 2 | Header 3 |
+| --- | --- | --- |
+| Some data | 
+| data | Some long data here | more data | 
+
 - i am making a list
 - this method helps you do that
 - there are differnt ways too
@@ -54,7 +60,3 @@ I am providing references and foot notes [^1][^2].
 [^2]: I am sure you got how to do it - this will help you provide references
 
 
-| Header 1  | Header 2 | Header 3 |
-| --- | --- | --- |
-| Some data | 
-| data | Some long data here | more data | 
