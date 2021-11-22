@@ -52,3 +52,9 @@ just putting a smile there 😃
 I am providing references and foot notes [^1][^2].
 [^1]: I got some foot notes
 [^2]: I am sure you got how to do it - this will help you provide references
+
+
+| Header 1  | Header 2 | Header 3 |
+| --- | --- | --- |
+| Some data | 
+| data | Some long data here | more data | 
